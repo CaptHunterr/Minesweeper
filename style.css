@@ -1,0 +1,31 @@
+.m1{
+    display: flex;
+}
+.main{
+    height: 500px;
+    width: 500px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+    margin: 35px 100px;
+}
+
+.box{
+    border: 3px solid black;
+}
+input{
+    background-color: gray;
+  padding: 40px 48px;
+  cursor: pointer;
+  border: none;
+}
+.result{
+        
+        margin: 200px 100px;
+        border: 2px solid black;
+        width: 250px;
+        text-align: center;
+        text-transform: capitalize;
+        font-weight:bolder;
+        font-size:larger;
+}
+
